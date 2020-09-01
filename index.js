@@ -7,7 +7,7 @@ exports.readCSVSync = (path, separator = ",", encoding = "utf-8") => {
     const keys = data[0].split(separator);
     const formattedData = [];
     for (let i = 1; i < data.length; i++) {
-        const row = data[i].split(',');
+        const row = data[i].split(separator);
         let rowObject = {};
         keys.forEach((key, index) => {
             rowObject[key] = row[index];
