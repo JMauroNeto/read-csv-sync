@@ -1,6 +1,6 @@
 {
   "name": "read-csv-sync",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Module to read .csv files synchronously",
   "main": "./build/index.js",
   "scripts": {
