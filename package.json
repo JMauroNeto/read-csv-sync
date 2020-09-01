@@ -1,0 +1,25 @@
+{
+  "name": "read-csv-sync",
+  "version": "1.0.0",
+  "description": "Module to read .csv files synchronously",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMauroNeto/read-csv-sync.git"
+  },
+  "keywords": [
+    "csv",
+    "read",
+    "file",
+    "files"
+  ],
+  "author": "Mauro Neto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMauroNeto/read-csv-sync/issues"
+  },
+  "homepage": "https://github.com/JMauroNeto/read-csv-sync#readme"
+}
