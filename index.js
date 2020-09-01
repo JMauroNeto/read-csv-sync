@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync } from 'fs';
+import { readFileSync } from 'fs';
 
 export const readCSVSync = (path) => {
     const data = readFileSync(path, 'utf-8').split('\n');
