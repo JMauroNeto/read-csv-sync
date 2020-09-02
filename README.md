@@ -1,22 +1,18 @@
-
-  
-
 # read-csv-sync
-
-  
 
 Module to read .csv files synchronously
 
 ### Index
 [Install](#install)
+
 [Basic Usage](#basic-usage)
+
 [Optional parameters](#optional-parameters)
+
 [Examples](#examples)
-  
   
 
 ### Install
-
   
 
 ```console
